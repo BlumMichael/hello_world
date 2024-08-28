@@ -1,0 +1,13 @@
+phrase:
+  host: http://localhost:3000/api/v2
+  project_id: 75a42e0199cbe6beb4c64813966caa45
+  push:
+    sources:
+    - file: ./config/locales/<locale_name>.yml
+      params:
+        file_format: yml
+  pull:
+    targets:
+    - file: ./config/locales/<locale_name>.yml
+      params:
+        file_format: yml
