@@ -3,11 +3,11 @@ phrase:
   project_id: 75a42e0199cbe6beb4c64813966caa45
   push:
     sources:
-    - file: ./config/locales/<locale_name>.yml
+    - file: ./foldername with [brakets]{(/locales/<locale_name>.yml
       params:
         file_format: yml
   pull:
     targets:
-    - file: ./config/locales/<locale_name>.yml
+    - file: ./foldername with [brakets]{(/locales/<locale_name>.yml
       params:
         file_format: yml
