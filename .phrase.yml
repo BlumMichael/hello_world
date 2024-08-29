@@ -1,13 +1,16 @@
 phrase:
   host: http://localhost:3000/api/v2
   project_id: 75a42e0199cbe6beb4c64813966caa45
+  file_format: yml
+  # Run `phrase push` to push en translations to Phrase
   push:
     sources:
-    - file: ./[locale2]/file.json
+    - file: ./config/locales/**/*en.yml
       params:
-        file_format: i18next_4
         update_translations: true
-        locale_id: 45ef0c0c6de320a051b282f4de18ec54
+    - file: ./config/locales/en.yml
+      params:
+        update_translations: true
   pull:
     targets:
     - file: ./file-en.json
