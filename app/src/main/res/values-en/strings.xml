@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="nextCounter">Next &lt;font color=\"#7856FF\"&gt;(%d)&lt;/font&gt;</string>
+</resources>
