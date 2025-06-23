@@ -1,20 +1,19 @@
 phrase:
   host: http://localhost:3000/api/v2
-  project_id: 75a42e0199cbe6beb4c64813966caa45
-  file_format: yml
+  project_id: 5e4e276ac47d594e521e16e9368da76a
+  file_format: xml
+  branch: "main"
   # Run `phrase push` to push en translations to Phrase
   push:
     sources:
-    - file: ./config/locales/**/*en.yml
-      params:
-        update_translations: true
-    - file: ./config/locales/en.yml
-      params:
-        update_translations: true
+      - file: "app/src/main/res/values/strings.xml"
+        params:
+          locale_id: "en"
+          update_translations: false
   pull:
     targets:
-    - file: ./file-en.json
-      params:
-        file_format: i18next_4
-        include_empty_translations: true
-        locale_id: 45ef0c0c6de320a051b282f4de18ec54
+      - file: "app/src/main/res/values-<locale_code>/strings.xml"
+        params:
+          # optional format options for Android XML
+          convert_placeholder: true
+          indent_size: 2
