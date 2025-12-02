@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="test">testen</string>
+    <string name="Test child 1">Test Elternteil 1</string>
+    <string name="test parent 1">Test Elternteil 1</string>
+</resources>

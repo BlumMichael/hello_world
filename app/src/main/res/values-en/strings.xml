@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="test">test</string>
+    <string name="Test child 1">test parent 1 - changed after download. then uploaded again. Please unverify children. Thx</string>
+    <string name="test parent 1">test parent 1 - changed after download. then uploaded again. Please unverify children. Thx</string>
+    <string name="test parent 2">Test Parent 2 - changed after download. then uploaded again. Please unverify children. Thx</string>
+    <string name="testtest">test</string>
+    <string name="thank you">Thank you</string>
+</resources>

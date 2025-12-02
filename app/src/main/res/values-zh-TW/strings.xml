@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="getResourceGoal_ec_challenge_coin">參加挑戰賽、在商店中購買，或者從幸運轉輪中獲得時間代幣。</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">參加挑戰賽、購物或者從幸運轉輪中獲得時間代幣。完成目標即可獲取分數。</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">開啟在商店中「促銷鏈式優惠」購買、在幸運轉輪中獲得，以及在吃角子老虎機中贏得的加成獎勵「儲蓄式釣魚禮包」</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">使用已收集的「魚角幣」。你可以在商店的「促銷鏈式優惠」中使用</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="getResourceGoal_ec_challenge_coin">MÜCADELELERE KATILARAK, MAĞAZADAN SATIN ALARAK VEYA ŞANS ÇARKI\'NDA KAZANARAK ZAMAN JETONU ELDE EDEBILIRSIN.</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">MÜCADELELERE KATILARAK, ALIŞVERIŞ YAPARAK VEYA ŞANS ÇARKI\'NDA KAZANARAK ZAMAN JETONU ELDE EDEBILIRSIN. PUAN ALMAK IÇIN TÜM HEDEFLERI TAMAMLA.</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">SLOT MAKİNESİ\'NDE BONUS ÖDÜL OLARAK, MAĞAZADAKI PROMOSYON ZİNCİR TEKLİFİNDE VE ŞANS ÇARKI\'NDA BULUNAN SAKLA BALIĞI GELİR ZAMANI PAKETİ\'Nİ AÇ</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">BALIK PARALARINI HARCA. MAĞAZADAKI PROMOSYON ZİNCİR TEKLİFİNDE HARCAYABILIRSIN</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="ftue_initial_flow_skip_description">Möchtest du das Tutorial überspringen und gleich mit dem Angeln anfangen?</string>
+    <string name="ftue_initial_flow_skip_title">Tutorial überspringen</string>
+    <string name="ftue_message_button_go">Los geht’s!</string>
+    <string name="getResourceGoal_ec_challenge_coin">VERDIENE ZEIT-MARKEN, INDEM DU AN WETTBEWERBEN TEILNIMMST, SIE IM SHOP KAUFST ODER SIE BEIM GLÜCKSRAD GEWINNST.</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">VERDIENE ZEIT-MARKEN DURCH TEILNAHME AN WETTBEWERBEN, EINKÄUFE ODER INDEM DU SIE BEIM GLÜCKSRAD GEWINNST. ERREICHE ALLE ZIELE, UM PUNKTE ZU ERHALTEN.</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">ÖFFNE DAS ANGELSPA(R)SS-PAKET, DAS DU IM GESTAFFELTEN PROMO-ANGEBOT IM SHOP, BEIM GLÜCKSRAD UND ALS BONUSPREIS IM SPIELAUTOMATEN FINDEST</string>
+    <string name="skip_tutorial">Einführung überspringen</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">GIB DEINE GESAMMELTEN FISCHPFENNIGE AUS. DIES KANNST DU IM GESTAFFELTEN PROMO-ANGEBOT TUN, DAS IM SHOP ERHÄLTLICH IST</string>
+</resources>

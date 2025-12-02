@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="getResourceGoal_ec_challenge_coin">ZDOBĄDŹ ŻETONY CZASU ZA UDZIAŁ W ZAWODACH, KUPUJĄC JE W SKLEPIE LUB WYGRYWAJĄC NA KOLE FORTUNY</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">ZDOBĄDŹ MONETY CZASU ZA UDZIAŁ W ZAWODACH, KUPUJĄC JE W SKLEPIE LUB WYGRYWAJĄC NA KOLE FORTUNY. WYKONAJ WSZYSTKIE POWTÓRZENIA CELU, ABY OTRZYMAĆ PUNKTY</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">OTWÓRZ PACZKĘ FUNDUSZ WĘDKARSKI, KTÓRĄ ZNAJDZIESZ: W PROMOCYJNEJ SERII OFERT W SKLEPIE, NA KOLE FORTUNY, ORAZ JAKO NAGRODĘ BONUSOWĄ W MASZYNIE LOSUJĄCEJ</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">WYDAJ ZEBRANE SREBRZAKI. MOŻESZ TO ZROBIĆ W PROMOCYJNEJ SERII OFERT, KTÓRĄ ZNAJDZIESZ W SKLEPIE</string>
+</resources>

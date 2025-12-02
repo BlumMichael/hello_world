@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="getResourceGoal_ec_challenge_coin">要获取时间代币，可参与挑战，在商店购买，或是在幸运转轮中赢取。</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">要获取时间代币，可加入挑战、购买，或是在幸运转轮中赢取。完成所有目标即可获得积分。</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">通过商店中的促销连环优惠、幸运转轮，以及玩老虎机的加成奖励，都可以打开钓鱼基金礼包</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">花掉您收集的钓鱼硬币。您可以通过商店中的促销连环优惠兑换</string>
+</resources>
