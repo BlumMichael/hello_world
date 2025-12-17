@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="getResourceGoal_ec_challenge_coin">GANHE FICHAS DE TEMPO PARTICIPANDO DE DESAFIOS, COMPRANDO NA LOJA OU GANHANDO NA RODA DA FORTUNA.</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">GANHE FICHAS DE TEMPO ENTRANDO EM DESAFIOS, COMPRANDO OU GANHANDO NA RODA DA FORTUNA. COMPLETE TODOS OS OBJETIVOS PARA GANHAR PONTOS.</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">ABRA O PACOTE DE PESCA DE FUNDOS ENCONTRADO NA OFERTA EM CADEIA PROMOCIONAL NA LOJA, NA RODA DA FORTUNA E COMO RECOMPENSA BÔNUS NO CAÇA-NÍQUEIS</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">GASTE SEUS CENTAVOS DE PEIXE COLETADOS. VOCÊ PODE FAZER ISSO NA OFERTA EM CADEIA PROMOCIONAL DISPONÍVEL NA LOJA</string>
+</resources>

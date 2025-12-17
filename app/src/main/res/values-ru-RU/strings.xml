@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="getResourceGoal_ec_challenge_coin">ЗАРАБАТЫВАЙТЕ ЖЕТОНЫ ВРЕМЕНИ УЧАСТИЕМ В ВЫЗОВАХ, ПОКУПАЙТЕ ИХ В МАГАЗИНЕ ИЛИ ВЫИГРЫВАЙТЕ В КОЛЕСЕ ФОРТУНЫ.</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">ЗАРАБАТЫВАЙТЕ ЖЕТОНЫ ВРЕМЕНИ: ПРИСОЕДИНЯЙТЕСЬ К ВЫЗОВАМ, ПОКУПАЙТЕ ИЛИ ВЫИГРЫВАЙТЕ В КОЛЕСЕ ФОРТУНЫ. ЧТОБЫ ПОЛУЧИТЬ ОЧКИ, ДОСТИГНИТЕ ВСЕХ ЦЕЛЕЙ.</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">ОТКРОЙТЕ ПАКЕТ «РЫБОЛОВНЫЙ С(КЛАД)», КОТОРЫЙ МОЖНО НАЙТИ В ПРОМО-СЕРИИ ПРЕДЛОЖЕНИЙ В МАГАЗИНЕ, НА КОЛЕСЕ ФОРТУНЫ, А ТАКЖЕ В КАЧЕСТВЕ БОНУСНОЙ НАГРАДЫ В ИГРОВОМ АВТОМАТЕ</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">ОБМЕНЯЙТЕ СОБРАННЫЕ РЫБНЫЕ ДЕСЯТИЦЕНТОВИКИ. ВЫ МОЖЕТЕ ИСПОЛЬЗОВАТЬ ИХ В ПРОМО-СЕРИИ ПРЕДЛОЖЕНИЙ В МАГАЗИНЕ</string>
+</resources>

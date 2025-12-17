@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="ftue_initial_flow_skip_description">Mau lewati tutorial dan langsung mulai memancing?</string>
+    <string name="ftue_initial_flow_skip_title">Lewati tutorial</string>
+    <string name="ftue_message_button_go">Ayo!</string>
+    <string name="getResourceGoal_ec_challenge_coin">DAPATKAN TOKEN WAKTU DENGAN MENGIKUTI TANTANGAN, MEMBELINYA DI TOKO, ATAU MEMENANGKANNYA DI RODA KEBERUNTUNGAN.</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">DAPATKAN TOKEN WAKTU DENGAN MENGIKUTI TANTANGAN, MEMBELINYA, ATAU MEMENANGKANNYA DI RODA KEBERUNTUNGAN. SELESAIKAN SEMUA TUJUAN UNTUK MENDAPAT POIN.</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">BUKA PAKET MENABUNG IKAN YANG ADA DI RANTAI PENAWARAN PROMO DI TOKO, DI RODA KEBERUNTUNGAN, DAN SEBAGAI HADIAH BONUS DI MESIN SLOT</string>
+    <string name="skip_tutorial">Lewati pengantar</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">BELANJAKAN PESER IKAN YANG TERKUMPUL. KAMU BISA MELAKUKAN INI PADA RANTAI PENAWARAN PROMO YANG TERSEDIA DI TOKO</string>
+</resources>

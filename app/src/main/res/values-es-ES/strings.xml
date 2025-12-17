@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="ftue_initial_flow_skip_description">¿Quieres omitir el tutorial y empezar a pescar?</string>
+    <string name="ftue_initial_flow_skip_title">Omitir el tutorial</string>
+    <string name="ftue_message_button_go">¡Vamos allá!</string>
+    <string name="getResourceGoal_ec_challenge_coin">CONSIGUE MÁS FICHAS DE TIEMPO PARTICIPANDO EN COMPETICIONES, CÓMPRALAS EN LA TIENDA O GÁNALAS EN LA RULETA DE LA SUERTE.</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">CONSIGUE MÁS FICHAS DE TIEMPO UNIÉNDOTE A COMPETICIONES, CÓMPRALAS O GÁNALAS EN LA RULETA DE LA SUERTE. COMPLETA TODOS LOS OBJETIVOS PARA RECIBIR PUNTOS.</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">ABRE EL PAQUETE DE AHORRANDO PE(Z)ETITAS QUE ENCONTRARÁS EN LA PROMOCIÓN DE OFERTA ENCADENADA DE LA TIENDA, EN LA RULETA DE LA SUERTE Y COMO PREMIO ADICIONAL EN LA TRAGAPERRAS.</string>
+    <string name="skip_tutorial">Omitir la introducción</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">GASTA LAS PEZETAS QUE HAYAS IDO ACUMULANDO EN LA PROMOCIÓN DE OFERTA ENCADENADA DE LA TIENDA.</string>
+</resources>

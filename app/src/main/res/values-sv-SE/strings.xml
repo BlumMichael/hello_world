@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="getResourceGoal_ec_challenge_coin">DU FÅR TIDSPOLLETTER GENOM ATT DELTA I UTMANINGAR, KÖPA DEM I BUTIKEN, ELLER VINNA DEM FRÅN LYCKOHJULET.</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">DU FÅR TIDSPOLLETTER GENOM ATT VARA MED I UTMANINGAR, KÖPA DEM, ELLER VINNA DEM FRÅN LYCKOHJULET. SLUTFÖR ALLA MÅL FÖR ATT FÅ POÄNG.</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">ÖPPNA FISK ÄR PENGAR-PAKETET I BUTIKENS KEDJEERBJUDANDE-KAMPANJ, I LYCKOHJULET OCH SOM EN BONUSBELÖNING I SPELAUTOMATEN</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">SPENDERA DINA INSAMLADE FISKÖREN. DU KAN GÖRA DET I KEDJEERBJUDANDE-KAMPANJEN SOM FINN TILLGÄNGLIG I BUTIKEN</string>
+</resources>

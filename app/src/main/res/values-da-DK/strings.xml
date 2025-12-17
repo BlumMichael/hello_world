@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="ftue_initial_flow_skip_description">Vil du springe vejledningen over og bare begynde at fiske?</string>
+    <string name="ftue_initial_flow_skip_title">Spring vejledningen over</string>
+    <string name="ftue_message_button_go">Lad os komme i gang!</string>
+    <string name="getResourceGoal_ec_challenge_coin">OPTJEN TIDSPOLETTER VED AT DELTAGE I UDFORDRINGER, KØB DEM I BUTIKKEN, ELLER VIND DEM GENNEM LYKKEHJULET.</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">OPTJEN TIDSPOLETTER VED AT DELTAGE I UDFORDRINGER, SHOPPE ELLER VINDE DEM GENNEM LYKKEHJULET. GENNEMFØR ALLE MÅLENE FOR AT FÅ POINT.</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">ÅBN FISKEFOND-PAKKEN, DER FINDES UNDER KAMPAGNE-KÆDETILBUD I BUTIKKEN, I LYKKEHJULET OG SOM BONUSBELØNNING I SPILLEAUTOMATEN</string>
+    <string name="skip_tutorial">Spring introduktionen over</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">BRUG DINE INDSAMLEDE FISKEØRER. DU KAN GØRE DETTE I KAMPAGNE-TILBUDSKÆDEN I BUTIKKEN</string>
+</resources>

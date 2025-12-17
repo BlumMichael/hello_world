@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="ftue_initial_flow_skip_description">Chceš přeskočit výukový režim a vrhnout se hned na rybaření?</string>
+    <string name="ftue_initial_flow_skip_title">Přeskočit výukový režim</string>
+    <string name="ftue_message_button_go">Tak do toho!</string>
+    <string name="getResourceGoal_ec_challenge_coin">ČASOVÉ ŽETONY MŮŽEŠ ZÍSKAT ÚČASTÍ VE VÝZVÁCH, NÁKUPEM V OBCHODĚ NEBO NA KOLE ŠTĚSTÍ.</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">ČASOVÉ ŽETONY MŮŽEŠ ZÍSKAT ÚČASTÍ VE VÝZVÁCH, V OBCHODĚ NEBO NA KOLE ŠTĚSTÍ. BODY ZÍSKÁŠ ZA SPLNĚNÍ VŠECH CÍLŮ.</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">OTEVŘI BALÍČEK NA ŠKUDLENÍ PO RYBÁŘSKU Z PROMO ŘETĚZOVÉ NABÍDKY Z OBCHODU, KOLA ŠTĚSTÍ A Z VÝHERNÍHO AUTOMATU JAKO BONUSOVOU ODMĚNU</string>
+    <string name="skip_tutorial">Přeskočit úvod</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">UTRAŤ NAŠKUDLENÉ RYBHALÍŘE. MŮŽEŠ TO UDĚLAT V PROMO ŘETĚZOVÉ NABÍDCE DOSTUPNÉ V OBCHODĚ</string>
+</resources>

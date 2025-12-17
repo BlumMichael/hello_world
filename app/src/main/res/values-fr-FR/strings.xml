@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="ftue_initial_flow_skip_description">Souhaitez-vous passer le tutoriel et commencer directement à pêcher ?</string>
+    <string name="ftue_initial_flow_skip_title">Passer le tutoriel</string>
+    <string name="ftue_message_button_go">C’est parti !</string>
+    <string name="getResourceGoal_ec_challenge_coin">GAGNEZ DES JETONS DE TEMPS EN PARTICIPANT AUX DÉFIS, ACHETEZ-LES DANS LA BOUTIQUE OU OBTENEZ-LES DANS LA ROUE DE LA FORTUNE.</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">GAGNEZ DES JETONS DE TEMPS EN PARTICIPANT AUX DÉFIS, ACHETEZ-LES OU OBTENEZ-LES DANS LA ROUE DE LA FORTUNE. TERMINEZ TOUS LES OBJECTIFS POUR OBTENIR DES POINTS.</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">OUVREZ LE PAQUET PÊCHE AUX ÉCONOMIES, DISPONIBLE DANS L’OFFRE À ENCHAÎNEMENT PROMOTIONNELLE DE LA BOUTIQUE, LA ROUE DE LA FORTUNE ET LES RÉCOMPENSES BONUS DE LA MACHINE À SOUS.</string>
+    <string name="skip_tutorial">Passer l’introduction</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">DÉPENSEZ LES SOUS DES MERS QUE VOUS AVEZ ÉCONOMISÉS CONTRE L’OFFRE À ENCHAÎNEMENT PROMOTIONNELLE, DISPONIBLE DANS LA BOUTIQUE.</string>
+</resources>

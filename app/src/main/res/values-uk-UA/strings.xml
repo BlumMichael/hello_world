@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="getResourceGoal_ec_challenge_coin">ЗАРОБЛЯЙТЕ ЖЕТОНИ ЧАСУ, БЕРУЧИ УЧАСТЬ У ВИКЛИКАХ, КУПУЮЧИ ЇХ У МАГАЗИНІ АБО ВИГРАЮЧИ НА КОЛЕСІ ФОРТУНИ.</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">ЗАРОБЛЯЙТЕ ЖЕТОНИ ЧАСУ, БЕРУЧИ УЧАСТЬ У ВИКЛИКАХ, КУПУЮЧИ АБО ВИГРАЮЧИ ЇХ НА КОЛЕСІ ФОРТУНИ. ВИКОНАЙТЕ ВСІ ЦІЛІ, ЩОБ ОТРИМАТИ ОЧКИ.</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">ВІДКРИЙТЕ ПАКЕТ «РИБАЛЬСЬКІ ЗАОЩАДЖЕННЯ», ЗНАЙДЕНИЙ В АКЦІЙНІЙ ПРОПОЗИЦІЇ З ЛАНЦЮГА В МАГАЗИНІ, НА КОЛЕСІ ФОРТУНИ, А ТАКОЖ В ЯКОСТІ БОНУСНОЇ НАГОРОДИ В СЛОТ-МАШИНІ.</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">ВИТРАЧАЙТЕ ЗІБРАНІ РИБАЛЬСЬКІ МІДЯКИ. ВИ МОЖЕТЕ ЗРОБИТИ ЦЕ В АКЦІЙНІЙ ПРОПОЗИЦІЇ З ЛАНЦЮГА, ДОСТУПНІЙ В МАГАЗИНІ.</string>
+</resources>

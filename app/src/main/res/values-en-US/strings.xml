@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="ftue_initial_flow_skip_description">Do you want to skip the tutorial and just start fishing?</string>
+    <string name="ftue_initial_flow_skip_title">Skip the tutorial</string>
+    <string name="ftue_message_button_go">Let\'s Go!</string>
+    <string name="getResourceGoal_ec_challenge_coin">EARN TIME TOKENS BY PARTICIPATING IN CHALLENGES, BUYING THEM IN THE SHOP, OR WINNING THEM FROM THE WHEEL OF FORTUNE.</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">EARN TIME TOKENS BY JOINING CHALLENGES, SHOPPING, OR WINNING THEM FROM THE WHEEL OF FORTUNE. COMPLETE ALL THE GOALS TO GET POINTS.</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">OPEN THE FISHING FUN(D) PACK FOUND IN THE PROMO CHAINED OFFER IN THE SHOP, IN THE WHEEL OF FORTUNE, AND AS A BONUS REWARD FROM THE SLOT MACHINE</string>
+    <string name="skip_tutorial">Skip the introduction</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">SPEND YOUR COLLECTED FISHDIMES. YOU CAN DO THIS IN THE PROMO CHAINED OFFER AVAILABLE IN THE SHOP.</string>
+</resources>

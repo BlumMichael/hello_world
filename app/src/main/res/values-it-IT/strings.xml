@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="ftue_initial_flow_skip_description">Vuoi saltare il tutorial e iniziare subito a pescare?</string>
+    <string name="ftue_initial_flow_skip_title">Salta il tutorial</string>
+    <string name="ftue_message_button_go">Forza!</string>
+    <string name="getResourceGoal_ec_challenge_coin">OTTIENI GETTONI DEL TEMPO PARTECIPANDO ALLE GARE, ACQUISTANDOLI NEL NEGOZIO O VINCENDOLI ALLA RUOTA DELLA FORTUNA.</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">OTTIENI GETTONI DEL TEMPO PARTECIPANDO ALLE GARE, ACQUISTANDOLI O VINCENDOLI ALLA RUOTA DELLA FORTUNA. COMPLETA TUTTI GLI OBIETTIVI PER OTTENERE PUNTI.</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">APRI IL PACCHETTO PESCATORI RISPARMIATORI CHE TROVI NELL\'OFFERTA PROMO A CATENA NEL NEGOZIO, NELLA RUOTA DELLA FORTUNA E COME RICOMPENSA BONUS NELLA SLOT MACHINE.</string>
+    <string name="skip_tutorial">Salta l\'introduzione</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">USA I PESCENTESIMI CHE HAI RACCOLTO. PUOI FARLO NELL\'OFFERTA PROMO A CATENA DISPONIBILE NEL NEGOZIO.</string>
+</resources>

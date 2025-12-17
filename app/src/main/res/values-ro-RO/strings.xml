@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="getResourceGoal_ec_challenge_coin">OBȚINE JETOANE TIMP PARTICIPÂND LA PROVOCĂRI, CUMPĂRĂ-LE ÎN MAGAZIN SAU CÂȘTIGĂ-LE LA ROATA NOROCULUI.</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">OBȚINE JETOANE TIMP PARTICIPÂND LA PROVOCĂRI, CUMPĂRÂNDU-LE SAU CÂȘTIGÂNDU-LE LA ROATA NOROCULUI. FINALIZEAZĂ TOATE OBIECTIVELE PENTRU A OBȚINE PUNCTE.</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">DESCHIDE PACHETUL FOND DE PESCUIT DIN OFERTA ÎNLĂNȚUITĂ PROMOȚIONALĂ DIN MAGAZIN, LA ROATA NOROCULUI ȘI CA RECOMPENSĂ BONUS ÎN AUTOMAT</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">CHELTUIEȘTE BĂNUȚII-PEȘTI ADUNAȚI. POȚI SĂ FACI ASTA ÎN OFERTA ÎNLĂNȚUITĂ PROMOȚIONALĂ DISPONIBILĂ ÎN MAGAZIN</string>
+</resources>

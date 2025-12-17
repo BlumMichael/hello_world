@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="ftue_initial_flow_skip_description">Szeretnéd átugrani a bemutatót, és egyből belevágni a horgászatba?</string>
+    <string name="ftue_initial_flow_skip_title">Bemutató átugrása</string>
+    <string name="ftue_message_button_go">Gyerünk!</string>
+    <string name="getResourceGoal_ec_challenge_coin">SZEREZZ IDŐZSETONOKAT A KIHÍVÁSOKBAN VALÓ RÉSZVÉTELLEL, A BOLTBAN VALÓ MEGVÁSÁRLÁSUKKAL, VAGY A SZERENCSEKERÉKEN VALÓ MEGNYERÉSÜKKEL!</string>
+    <string name="getResourceGoal_ec_challenge_coin_cumulative">SZEREZZ IDŐZSETONOKAT A KIHÍVÁSOKHOZ VALÓ CSATLAKOZÁSSAL, VÁSÁRLÁSSAL, VAGY A SZERENCSEKERÉKEN VALÓ MEGNYERÉSÜKKEL! TELJESÍTSD AZ ÖSSZES CÉLT, HOGY PONTOKAT KAPJ!</string>
+    <string name="openBoosterGoal1_Booster_id_piggy_bank_target">NYISD KI A HORGÁSZALAPCSOMAGOT, AMELYET A BOLTBAN TALÁLHATÓ PROMÓCIÓS LÁNCOLT AJÁNLATON BELÜL, A SZERENCSEKERÉKEN ÉS BÓNUSZJUTALOMKÉNT A NYERŐGÉPEN TALÁLSZ!</string>
+    <string name="skip_tutorial">Bevezető átugrása</string>
+    <string name="spendResourcesGoal1_target_spend_ec_piggy_bank">KÖLTSD EL AZ ÖSSZEGYŰJTÖTT HALÉRMÉKET! EZT A BOLTBAN ELÉRHETŐ PROMÓCIÓS LÁNCOLT AJÁNLATON BELÜL TEHETED MEG.</string>
+</resources>
