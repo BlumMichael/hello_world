@@ -6,9 +6,8 @@ phrase:
   # Run `phrase push` to push en translations to Phrase
   push:
     sources:
-      - file: "app/src/main/res/values/strings.xml"
+      - file: "app/src/main/res/values-<locale_code>/strings.xml"
         params:
-          locale_id: "en"
           update_translations: false
   pull:
     targets:
