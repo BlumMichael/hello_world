@@ -1,6 +1,7 @@
 phrase:
-  # host: http://localhost:3000/api/v2
-  project_id: 600e3b4a9eed14f466ac12cbeed22a2d
+  host: http://localhost:3000/api/v2
+  # project_id: 600e3b4a9eed14f466ac12cbeed22a2d
+  project_id: fbbd8e2589a0fb08e4214899e17e53ca
   file_format: xml
   branch: "main"
   # Run `phrase push` to push en translations to Phrase
